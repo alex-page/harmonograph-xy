@@ -14,7 +14,7 @@ npm install @harmonograph/xy
 
 The harmonograph is a mechanical apparatus that uses pendulums to create a geometric image. This function uses the drawing time, size and pendulums to create X and Y coordinates for a harmonograph.
 
-If you wish to draw the harmonograph for use on a website you can use `@harmonograph/svg` or `@harmonograph/canvas`.
+If you wish to draw the harmonograph for use on a website you can use `@harmonograph/svg`.
 
 
 ### Create harmonograph XY coordinates
