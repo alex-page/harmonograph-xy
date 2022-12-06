@@ -39,7 +39,7 @@
 		"url": "https://github.com/alex-page/harmonograph-xy/issues"
 	},
 	"devDependencies": {
-		"ava": "^3.8.1",
-		"xo": "^0.30.0"
+		"ava": "^5.1.0",
+		"xo": "^0.53.1"
 	}
 }
